@@ -1,6 +1,8 @@
 **<h1>Birder</h1>**
 
-https://github.com/sterno2510/Birder/blob/main/readme-assets/Screen%20Recording%202023-04-11%20at%206.45.17%20PM.mov
+<video width="320" height="240" controls>
+  <source src="Screen%20Recording%202023-04-11%20at%206.45.17%20PM.mov" type="video/mp4">
+</video>
 
 **<h2 style="text-decoration:underline;">Overview:</h2>**
 
