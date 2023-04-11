@@ -1,5 +1,7 @@
 **<h1>Birder</h1>**
 
+https://github.com/sterno2510/Birder/blob/main/readme-assets/Screen%20Recording%202023-04-11%20at%206.45.17%20PM.mov
+
 **<h2 style="text-decoration:underline;">Overview:</h2>**
 
 Designed for birdwatching enthusiasts, Birder allows birdwatchers to keep track of when and where they have sighted a bird and to socialize via chat with other birdwatchers.
